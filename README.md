@@ -3,5 +3,5 @@
 #modify
 
 
-[Realease](https://github.com/welk1n/JNDI-Injection-Exploit/releases)
+[参考](https://paper.seebug.org/)
 
