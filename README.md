@@ -3,3 +3,5 @@
 #modify
 
 
+[Realease](https://github.com/welk1n/JNDI-Injection-Exploit/releases)
+
