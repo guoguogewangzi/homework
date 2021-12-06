@@ -2,6 +2,7 @@
 
 #modify
 
+nobgr
 
 [参考](https://paper.seebug.org/)
 
